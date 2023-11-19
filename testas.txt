@@ -1,0 +1,71 @@
+Eil. nr. - 1. 
+img - None
+Klausimas - Kodėl reikia įvertinti įvykio vietos saugumą? 
+A. Siekiant įsitikinti, jog situacija nepavojinga gelbėtojo gyvybei ar sveikatai. 
+B. Siekiant užtikrinti nukentėjusiojo saugumą. 
+C. Siekiant išsiaiškinti nelaimingo atsitikimo/avarijos priežastis. 
+*
+Eil. nr. - 2. 
+img - 1.jpg
+Klausimas - Koks yra pirmosios pagalbos tikslas? 
+A. Išsaugoti nukentėjusiojo ar ūmai susirgusiojo gyvybę, sustabdyti sveikatai žalingų veiksnių poveikį. 
+B. Nustatyti nukentėjusiojo būklę ir iškviesti greitąją pagalbą.
+C. Palaikyti nukentėjusiojo gyvybines funkcijas, kol atvyks greitoji pagalba. 
+*
+Eil. nr. - 3. 
+img - 3.jpg
+Klausimas - Kokios pagrindinės gyvybinės funkcijos? 
+A. Sąmonė, kvėpavimas, kraujotaka, virškinimas. 
+B. Sąmonė, kvėpavimas, kraujotaka. 
+C. Kvėpavimas ir kraujotaka. 
+*
+Eil. nr. - 4. 
+img - None
+Klausimas - Kokioms sąlygoms esant nukentėjusįjį būtina perkelti į saugią aplinką? 
+A. Oro sąlygos netinkamos suteikti pirmąją pagalbą (lyja arba sningA.. 
+B. Užteršta aplinka, sprogimo pavojus, intensyvus eismas, nestabilūs daiktai, galintys sužeisti. 
+C. Pirmosios pagalbos teikėjas pats pasirenka, kur jam patogiau suteikti pirmąją pagalbą. 
+*
+Eil. nr. - 5. 
+img - 2.jpg
+Klausimas - Kodėl negalima palikti nukentėjusiojo be priežiūros iki medikų atvykimo? 
+A. Bet kuriuo metu žmogaus stabili būklė gali staiga pablogėti. 
+B. Nukentėjusiojo psichologinė būklė gali būti nestabili. 
+C. Nukentėjusįjį reikia palydėti iki gydymo įstaigos. 
+*
+Eil. nr. - 6. 
+img - None
+Klausimas - Kaip padėti žmogui, ištiktam psichologinio streso? 
+A. Nuraminti, šiltai apkloti, pasakyti, kad jau atvyksta greitoji medicinos pagalba. 
+B. Nieko nedaryti, laukti, kol atvyks greitoji medicinos pagalba. 
+C. Sugirdyti raminanamųjų vaistų. 
+*
+Eil. nr. - 7. 
+img - 3.jpg
+Klausimas - Kaip iškviesti medicinos pagalbą, kokiu telefono numeriu skambinti? 
+A. 112
+B. 113
+C. 111 
+*
+Eil. nr. - 8. 
+img - None
+Klausimas - Kodėl reikia mokėti teikti pirmąją pagalba? 
+A. Moralinė nuostata padėti artimajam. 
+B. Lietuvos Respublikos įstatymai įpareigoja suteikti pirmąją medicinos pagalbą. 
+C. Net greičiausia greitoji medicinos pagalba gali nesuspėti išgelbėti gyvybę. 
+*
+Eil. nr. - 9. 
+img - None
+Klausimas - Kokie yra klinikinės mirties požymiai? 
+A. Nėra sąmonės, nėra kvėpavimo. 
+B. Nėra kvėpavimo, nėra širdies veiklos (kraujotakos). 
+C. Nėra sąmonės, nėra kvėpavimo, nėra širdies veiklos (kraujotakos). 
+*
+Eil. nr. - 10. 
+img - None
+Klausimas - Kiek gali trukti klinikinė mirtis? 
+A. Apie 5 min. 
+B. Apie 20 min. 
+C. Apie 2 val. 
+*
+
